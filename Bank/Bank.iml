@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="jpa" name="JPA">
+      <configuration>
+        <setting name="validation-enabled" value="true" />
+        <datasource-mapping>
+          <factory-entry name="BankCreate" value="b0fe5e0c-d04c-45bc-acb5-1a060c7a4a72" />
+          <factory-entry name="BankUpdate" value="b0fe5e0c-d04c-45bc-acb5-1a060c7a4a72" />
+          <factory-entry name="default" value="b0fe5e0c-d04c-45bc-acb5-1a060c7a4a72" />
+        </datasource-mapping>
+        <naming-strategy-map />
+        <deploymentDescriptor name="persistence.xml" url="file://$MODULE_DIR$/src/main/resources/META-INF/persistence.xml" />
+      </configuration>
+    </facet>
+  </component>
+</module>
